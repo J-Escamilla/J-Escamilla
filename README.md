@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @J-Escamilla
+- 👋 Hi, I’m John!
 - 👀 I’m intererested in technology and how it shapes our future. I'm also an extremely amateur golfer, cat dad, and gamer.
 - 🌱 I’m currently learning the trinity of frontend web development. Slowly making progress and looking to enter the world of frameworks in the near future.
 - 💞️ I’m looking to meet new people on this journey. I'm also an introvert, but I promise I'm always trying to get out of my shell.
